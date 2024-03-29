@@ -1,3 +1,5 @@
 food-project-2/
 runs/
 /yolov9e.pt
+/apikey.py
+/test
